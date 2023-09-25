@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/54faaeb8e12fcd9d90488b51c9fc0e1cef0a4d26/README.md">Voltar para Documentação
+<a href="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git">Voltar para Documentação
 </p>
 
   
