@@ -12,15 +12,10 @@
   
 
 <p  align="center">
-
 <a  href="#sobre">Sobre</a> |
-
 <a  href="#backlogs">Product Backlog</a> |
-
 <a  href="#tecnologias">Tecnologias</a> |
-
 <a  href="#equipe">Equipe</a>
-
 </p>
 
   
@@ -69,7 +64,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 28/09/2023 | ➡️ Em andamento |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/00a8bf5d1409c71e6cbbae93d151e7a658554e2b/README.md)
+| 01 | 28/09/2023 | ➡️ Em andamento |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/651f8a024fd64a1bae899e81a62bcbffa2ee1faa/README.md)
 | 02 | 26/10/2023 | 🚫 Não iniciada |
 | 03 | 23/11/2023 | 🚫 Não iniciada |
 
