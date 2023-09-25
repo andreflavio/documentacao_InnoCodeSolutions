@@ -1,8 +1,6 @@
-![Legenda](./Solutions-banner.png)
+<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/e9f905c0e7ac709ede42d19bdbdf8c40d54afb98/InnoCodeSolutions-banner.png" />
 
 <br>
-
-
 
 <span  id="topo">
 
@@ -11,11 +9,9 @@
 <a  href="#backlogs">Product Backlog</a> |
 <a  href="#tecnologias">Tecnologias</a> |
 <a  href="#equipe">Equipe</a>
-
 </p>
 
 <span  id="sobre">
-
 
 <br>
 
@@ -23,16 +19,12 @@
 
 Este projeto tem como objetivo fornecer uma plataforma educacional abrangente dedicada à metodologia ágil Scrum. Com a crescente demanda por abordagens ágeis no desenvolvimento de software e gerenciamento de projetos, nossa missão é oferecer um recurso valioso para indivíduos e equipes que desejam aprender e implementar o Scrum de maneira eficaz.
 
-  
-
 >  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
-
- 
- <br>
+<br>
 
 :arrow_right: Status do Projeto: **Em andamento** ✔️
 
-  <br>
+<br>
 <br>
 <br>
 
@@ -47,17 +39,12 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 03 | 23/11/2023 | 🚫 Não iniciada | 
 → [Voltar ao topo](#topo)
 
- <br>
 <br>
-
+<br>
 
 <span  id="backlogs">
 
- 
-
 ## :dart: Product Backlog
-
-  
 
 <div  align="center">
 
@@ -65,25 +52,16 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 </div>
 
-  
-
 → [Voltar ao topo](#topo)
 
 <br>
 <br>
 
-
 <span  id="tecnologias">
-
-  
 
 ## 🛠️ Tecnologias
 
-  
-
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
-  
 
 <img  src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C"  alt="Figma"  />
 
@@ -105,19 +83,13 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-
 → [Voltar ao topo](#topo)
 
- <br>
-
+<br>
 
 <span  id="equipe">
 
-  
-
 ## :busts_in_silhouette: Equipe
-
-  
 
 | Função | Nome | LinkedIn & GitHub |
 | :---------:| :--------: | :---------------------: |
