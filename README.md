@@ -1,8 +1,6 @@
 
 
-![Legenda](./InnoCodeSolutions-banner.png)
-
-<h1  align="center">  InnoCode Solutions </h1>
+  ![Legenda](./Solutions-banner.png)
 
 <br>
 
@@ -32,11 +30,11 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 >  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
  
-<br>
+ <br>
 
 :arrow_right: Status do Projeto: **Em andamento** ✔️
 
-<br>
+  <br>
 <br>
 <br>
 
@@ -57,7 +55,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 → [Voltar ao topo](#topo)
 
-<br>
+ <br>
 <br>
 
 
@@ -70,8 +68,6 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
   
 
 <div  align="center">
-
-<img  src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/61a3b06a-10ba-4451-b627-5831310625d3"  alt="PRODUCT BACKLOG"  />
 
 <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/b6132a36e97948e565ed5e8fda75f4b45524a673/product_backlog.png" alt="product backlog" />
 
