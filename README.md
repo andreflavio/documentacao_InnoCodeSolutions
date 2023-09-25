@@ -1,6 +1,4 @@
-
-
-  ![Legenda](./Solutions-banner.png)
+![Legenda](./Solutions-banner.png)
 
 <br>
 
