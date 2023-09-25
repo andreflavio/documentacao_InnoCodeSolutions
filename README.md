@@ -47,12 +47,6 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 01 | 28/09/2023 | ➡️ Em andamento |[Documentação](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git)
 | 02 | 26/10/2023 | 🚫 Não iniciada | 
 | 03 | 23/11/2023 | 🚫 Não iniciada | 
-
-  
-<br>
-<br>
-<br>
-
 → [Voltar ao topo](#topo)
 
  <br>
