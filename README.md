@@ -104,4 +104,5 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 <img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/651f8a024fd64a1bae899e81a62bcbffa2ee1faa/burndown-sprint01.png"  />
 </div>
 
+
 → [Voltar ao topo](#topo)
