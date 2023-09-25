@@ -39,14 +39,15 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 
 | Sprint | Previsão de entrega | Status | Histórico |
-
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-
 | 01 | 28/09/2023 | ➡️ Em andamento |[Documentação](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git)
 | 02 | 26/10/2023 | 🚫 Não iniciada | 
 | 03 | 23/11/2023 | 🚫 Não iniciada | 
 
   
+ <br>
+ <br>
+<br>
 
 → [Voltar ao topo](#topo)
 
@@ -121,23 +122,14 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
   
 
 | Função | Nome | LinkedIn & GitHub |
-
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
+| :---------:| :--------: | :---------------------: |
 | Product Owner | Mauro do Prado Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-do-prado-santos-350b2720a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mauropradoo) |
-
 | Scrum Master | Gustavo Carvalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/xgustavu) |
-
 | Dev Team | Lucas Silva Cambuzano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cambuzano-ba4b6021a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCambuzano) |
-
 | Dev Team | Lucas Lahos Sanchez | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/profile/in/lucas-lahos-sanchez-7661b019b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lahoslucas) |
-
 | Dev Team | Danilo Alves dos Santos Braz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-alves-dos-santos-braz-26058328b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danilo-Fatec) |
-
 | Dev Team | Jucielinton Souza Mello Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/jucieliton-pedro-3b220928b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jucielitonpedro)|
-
 | Dev Team | João Paulo Epifano dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-epifanio-dos-santos-295092a3) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-epifanio)|
-  
 | Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
 
 → [Voltar ao topo](#topo)
