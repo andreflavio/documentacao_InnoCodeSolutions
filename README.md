@@ -1,96 +1,185 @@
-<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/e9f905c0e7ac709ede42d19bdbdf8c40d54afb98/InnoCodeSolutions-banner.png" />
+
+<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/e9f905c0e7ac709ede42d19bdbdf8c40d54afb98/InnoCodeSolutions-banner.png"  />
+
+  
 
 <br>
+
+  
 
 <span  id="topo">
 
+  
+
 <p  align="center">
+
 <a  href="#sobre">Sobre</a> |
+
 <a  href="#backlogs">Product Backlog</a> |
+
 <a  href="#tecnologias">Tecnologias</a> |
+
 <a  href="#equipe">Equipe</a>
+
 </p>
+
+  
 
 <span  id="sobre">
 
+  
+
 <br>
+
+  
 
 ## :bookmark_tabs: Sobre o projeto
 
+  
+
 Este projeto tem como objetivo fornecer uma plataforma educacional abrangente dedicada à metodologia ágil Scrum. Com a crescente demanda por abordagens ágeis no desenvolvimento de software e gerenciamento de projetos, nossa missão é oferecer um recurso valioso para indivíduos e equipes que desejam aprender e implementar o Scrum de maneira eficaz.
 
+  
+
 >  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+
 <br>
+
+  
 
 :arrow_right: Status do Projeto: **Em andamento** ✔️
 
+  
+
 <br>
+
 <br>
+
 <br>
+
+  
 
 ### 🏁 Entregas de Sprints
 
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+  
+
+Cada entrega será realizada a partir da **data de conclusão**, além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+
+  
 
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 28/09/2023 | ➡️ Em andamento |[Documentação](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git)
-| 02 | 26/10/2023 | 🚫 Não iniciada | 
-| 03 | 23/11/2023 | 🚫 Não iniciada | 
+| 01 | 28/09/2023 | ➡️ Em andamento |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/00a8bf5d1409c71e6cbbae93d151e7a658554e2b/README.md)
+| 02 | 26/10/2023 | 🚫 Não iniciada |
+| 03 | 23/11/2023 | 🚫 Não iniciada |
 
 → [Voltar ao topo](#topo)
 
+  
+
 <br>
+
 <br>
+
+  
 
 <span  id="backlogs">
 
+  
+
 ## :dart: Product Backlog
+
+  
 
 <div  align="center">
 
-<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/b6132a36e97948e565ed5e8fda75f4b45524a673/product_backlog.png" alt="product backlog" />
+  
+
+<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/b6132a36e97948e565ed5e8fda75f4b45524a673/product_backlog.png"  alt="product backlog"  />
+
+  
 
 </div>
 
+  
+
 → [Voltar ao topo](#topo)
 
+  
+
 <br>
+
 <br>
+
+  
 
 <span  id="tecnologias">
 
+  
+
 ## 🛠️ Tecnologias
+
+  
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
+  
+
 <img  src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C"  alt="Figma"  />
+
+  
 
 <img  src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"  alt="VS Code"  />
 
+  
+
 <img  src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA"  alt="Discord"  />
+
+  
 
 <img  src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A"  alt="GitHub"  />
 
+  
+
 <img  src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853"  alt="Google Sheets"  />
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
+  
 
-<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" />
+<img  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  alt="Excel"/>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
+
+<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
+
+  
+
+<img  src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"  alt="Teams"  />
+
+  
+
+<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  />
+
+  
 
 → [Voltar ao topo](#topo)
 
+  
+
 <br>
+
+  
 
 <span  id="equipe">
 
+  
+
 ## :busts_in_silhouette: Equipe
+
+  
 
 | Função | Nome | LinkedIn & GitHub |
 | :---------:| :--------: | :---------------------: |
@@ -102,5 +191,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team | Jucielinton Souza Mello Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/jucieliton-pedro-3b220928b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jucielitonpedro)|
 | Dev Team | João Paulo Epifano dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-epifanio-dos-santos-295092a3) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-epifanio)|
 | Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
+
+  
 
 → [Voltar ao topo](#topo)
