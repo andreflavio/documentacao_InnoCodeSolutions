@@ -20,7 +20,7 @@
 
 Para início do desenvolvimento de um site para **plataforma educacional sobre o Scrum**, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.
 
-  
+<br>  
 
 <span  id="objetivos">
 
@@ -42,7 +42,8 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
 - :heavy_check_mark: **6:** Definição de cores para o projeto
 
-  
+
+<br>
 
 <span  id="entregas">
 
@@ -90,7 +91,7 @@ Seleção das cores a serem utilizadas no projeto.
 
 → [Voltar ao topo](#topo)
 
-  
+<br> 
 
 <span  id="metricas">
 
