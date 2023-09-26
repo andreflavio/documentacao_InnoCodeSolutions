@@ -101,7 +101,7 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
 <div  align="center">
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/651f8a024fd64a1bae899e81a62bcbffa2ee1faa/burndown-sprint01.png"  />
+<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/burndown_sprint01.png"  />
 </div>
 
 
