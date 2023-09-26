@@ -60,7 +60,7 @@ Este projeto tem como objetivo fornecer uma plataforma educacional abrangente de
 
 Cada entrega será realizada a partir da **data de conclusão**, além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 
-  
+<div align="center">
 
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
@@ -70,7 +70,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 → [Voltar ao topo](#topo)
 
-  
+</div>   
 
 <br>
 
