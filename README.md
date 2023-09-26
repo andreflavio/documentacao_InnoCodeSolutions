@@ -113,7 +113,9 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 
 → [Voltar ao topo](#topo)
 
-<span  id="wireframe">
+<br>
+
+<span  id="kanban">
 
 ##  :bar_chart: KanBan
 
@@ -123,6 +125,8 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 </div>
 
 → [Voltar ao topo](#topo)
+
+<br>
 
 <span  id="metricas">
 
