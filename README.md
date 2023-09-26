@@ -100,6 +100,10 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
+<p>
+  → Para ter acesso a planilha com os dados e gráfico <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/gustavo_carvalho21_fatec_sp_gov_br/EYHhekfCCWVGjcrbAh9dUcMBErhKBofVpfHzoNdkV9C2jg?e=kDRqlZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0">clique aqui!</a>
+</p>
+
 <div  align="center">
 <img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/burndown_sprint01.png"  />
 </div>
