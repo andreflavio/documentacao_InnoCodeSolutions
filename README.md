@@ -77,17 +77,19 @@ Criação do nome, logo e slogan da equipe, redes sociais e GitHub.
 
 Estabelecimento da estrutura do site e desenvolvimento do wireframe.
 
-  
 
-### 5: Apresentação
+### 5: Definição de cores para o projeto
+
+Seleção das cores a serem utilizadas no projeto. 
+
+
+### 6: Apresentação
 
   
 
 Criação da documentação e organização visual no GitHub para facilitar o gerenciamento e compartilhamento de informações.
 
-### 6: Definição de cores para o projeto
 
-Seleção das cores a serem utilizadas no projeto.
 
 → [Voltar ao topo](#topo)
 
