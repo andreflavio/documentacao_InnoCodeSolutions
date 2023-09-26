@@ -186,6 +186,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team | Jucielinton Souza Mello Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/jucieliton-pedro-3b220928b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jucielitonpedro)|
 | Dev Team | João Paulo Epifano dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-epifanio-dos-santos-295092a3) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-epifanio)|
 | Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
-</div>  
+
+</div> 
+
+<br>
 
 → [Voltar ao topo](#topo)
