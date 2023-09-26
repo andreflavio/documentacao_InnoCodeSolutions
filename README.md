@@ -68,9 +68,9 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 | 02 | 26/10/2023 | 🚫 Não iniciada |
 | 03 | 23/11/2023 | 🚫 Não iniciada |
 
-→ [Voltar ao topo](#topo)
-
 </div>   
+
+→ [Voltar ao topo](#topo)
 
 <br>
 
@@ -174,7 +174,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 ## :busts_in_silhouette: Equipe
 
-  
+<div align="center">  
 
 | Função | Nome | LinkedIn & GitHub |
 | :---------:| :--------: | :---------------------: |
@@ -187,6 +187,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team | João Paulo Epifano dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-epifanio-dos-santos-295092a3) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-epifanio)|
 | Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
 
-  
+<div/>  
 
 → [Voltar ao topo](#topo)
