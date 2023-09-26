@@ -86,7 +86,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
   
 
-<div  align="center">
+<div  align="center" width="90%">
 
   
 
