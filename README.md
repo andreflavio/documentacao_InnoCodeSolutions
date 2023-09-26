@@ -188,5 +188,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
 
 <div/>  
+<br>
 
 → [Voltar ao topo](#topo)
