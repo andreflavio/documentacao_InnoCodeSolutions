@@ -9,6 +9,8 @@
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
 <a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+<a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
+<a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a>
 </p>
 
@@ -94,6 +96,33 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 → [Voltar ao topo](#topo)
 
 <br> 
+
+<span  id="wireframe">
+
+## :rice_scene: Wireframe
+
+<div align="center">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/1pagina_inicial.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/2carrossel_imagens.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/3area_texto.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/4area_texto2.png">
+</div>
+
+→ [Voltar ao topo](#topo)
+
+<span  id="wireframe">
+
+##  :bar_chart: KanBan
+
+<div align="center">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/kanban_sprint01.jpeg">
+      <br>
+</div>
+
+→ [Voltar ao topo](#topo)
 
 <span  id="metricas">
 
