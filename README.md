@@ -128,10 +128,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
   
 
-<img  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  alt="Trello"  />
-
-  
-
 <img  src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A"  alt="GitHub"  />
 
   
@@ -153,6 +149,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
   
 
 <img  src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"  alt="Teams"  />
+
+
+
+<img  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  alt="Trello"  />
 
   
 
