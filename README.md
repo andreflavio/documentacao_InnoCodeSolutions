@@ -73,7 +73,7 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 <div align="center">
 <br>
   
-:movie_camera: **Vídeo sobre a 1ª sprint** <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
+:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
 
 <br>
 </div>
