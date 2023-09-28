@@ -6,6 +6,10 @@
 
 <h1  align="center">Sprint 1: 04/09/2023 a 28/09/2023</h1>
 
+<br>
+Você pode acessar o vídeo da explicação clicando <a href="https://youtu.be/G6foH98PoDM">aqui<a>
+<br>
+
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
 <a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
