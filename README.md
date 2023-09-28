@@ -70,6 +70,10 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 </div>   
 
+<br>
+<p>Você pode acessar o vídeo da explicação do projeto e 1ª sprint clicando <a href="https://youtu.be/G6foH98PoDM">aqui<a></a>  
+<br>
+  
 → [Voltar ao topo](#topo)
 
 <br>
