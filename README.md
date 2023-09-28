@@ -20,9 +20,13 @@
 <br>
 </p>
   
+<div align="center">
 <br>
-<p>Você pode acessar o vídeo da explicação do projeto e 1ª sprint clicando <a href="https://youtu.be/G6foH98PoDM">aqui<a></a>  
+  
+:movie_camera: Vídeo sobre a 1ª sprint <a href="https://youtu.be/G6foH98PoDM">***aqui***</a>  
+
 <br>
+</div>
 
 <p>Para início do desenvolvimento de um site para **plataforma educacional sobre o Scrum**, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
 
