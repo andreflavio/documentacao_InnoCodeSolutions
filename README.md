@@ -184,4 +184,6 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
   - A equipe teve dificuldades para a utilização do GitHub, procuraremos buscar mais conhecimento sobre a ferramenta;
   - Dificuldades em realizar as daily's; 
   - Não realizamos a documentação do User Stories.
-  
+
+
+→ [Voltar ao topo](#topo)
