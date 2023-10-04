@@ -13,7 +13,7 @@
 <a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
-<a  href="#sprint_review">Sprint Review</a>
+<a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
 </p>
 
 <p align="center">
@@ -171,9 +171,9 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 <br>
 
-<span  id="sprint_review">
+<span  id="sprint_retrospectiva">
 
-## :bulb: Sprint review
+## :bulb: Sprint Retrospectiva
 
 ### O que funcionou bem?
   - Divisão de tarefas e realização das mesmas;
