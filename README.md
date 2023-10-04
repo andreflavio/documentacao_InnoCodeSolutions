@@ -108,7 +108,7 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 <span  id="sprint_backlog">
 
 ## :clipboard: Sprint Backlog 1
-
+<p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
       <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/sprint01_backlog.png">
       <br>
@@ -152,7 +152,11 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 <span  id="metricas">
 
 ## :chart_with_upwards_trend: Métricas do time
+### O que funcionou bem?
 
+### O que pode melhorar?
+
+### Burndown
 Nesta sprint o time se uniu para as entregas de cada item listado na backlog da sprint.
 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
