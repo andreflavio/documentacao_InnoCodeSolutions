@@ -4,7 +4,7 @@
 
   
 
-<h1  align="center">Sprint 1: 04/09/2023 a 28/09/2023</h1>
+<h1  align="center">Sprint 2: 02/10/2023 a 26/10/2023</h1>
 
 <p  align="center">
 <a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -29,7 +29,7 @@
 <br>
 </div>
 
-<p>Para início do desenvolvimento de um site para ** plataforma educacional sobre o Scrum **, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
+<p>Para a sequencia do desenvolvimento do um site, durante esta segunda sprint, nossa equipe concentrou seus esforços no desenvolvimento do Site em HTML, CSS e Bootstrap. Que terá como o principal objetivo a crialção do site navegável.</p>
 
 <br>  
 
@@ -41,17 +41,21 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 
   
 
-- :heavy_check_mark: **1:** Definição de cargos e responsabilidades da equipe;
+- :heavy_check_mark: **1:** Definição do conteúdo do curso;
 
-- :heavy_check_mark: **2:** Desenvolvimento da identidade visual da empresa;
+- :heavy_check_mark: **2:** Aplicação de CCS3 e Bootstrap no site;
 
-- :heavy_check_mark: **3:** Definição e criação do layout (Wireframe);
+- :heavy_check_mark: **3:** Separação de módulos do curso;
 
-- :heavy_check_mark: **4:** Elaboração da Documentação e organização no GitHub
+- :heavy_check_mark: **4:** Criação do Formulário;
 
-- :heavy_check_mark: **5:** Apresentação
+- :heavy_check_mark: **5:** Atualização da Documentação no GitHub;
 
-- :heavy_check_mark: **6:** Definição de cores para o projeto
+- :heavy_check_mark: **6:** Protótipo navegavel finalizado;
+
+- :heavy_check_mark: **7:** Apresentação.
+
+- :heavy_check_mark: **8:** Hospedagem.
 
 
 <br>
@@ -66,40 +70,43 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
   
 
-### 1: Definição de cargos e responsabilidades da equipe
+### 1: Definição do conteúdo do curso
 
   
 
-Definição dos cargos de PO (Product Owner) e Scrum Master, assim como definição dos desenvolvedores.
-
+Seleção de textos e livros a serem utilizados no site, assim como imagens.
   
 
-### 2: Desenvolvimento da identidade visual da empresa
+### 2: Aplicação de CCS3 e Bootstrap no site
 
-  
-
-Criação do nome, logo e slogan da equipe, redes sociais e GitHub.
-
-  
-
-### 4: Definição e criação do layout (Wireframe)
-
-  
-
-Estabelecimento da estrutura do site e desenvolvimento do wireframe.
+Finalização do layout e responsividade do site utilizando o CSS e Bootstrap.
 
 
-### 5: Definição de cores para o projeto
+### 3: Separação de módulos do curso
 
-Seleção das cores a serem utilizadas no projeto. 
+Definição de quantos módulos o curso terá e subtópicos a partir de então.
 
 
-### 6: Apresentação
+### 4: Criação do Formulário
 
-  
+Definição do formulário a ser aplicado ao final do curso. 
 
-Criação da documentação e organização visual no GitHub para facilitar o gerenciamento e compartilhamento de informações.
 
+### 5: Atualização da Documentação no GitHub
+
+Atualização da documentação e organização visual no GitHub para facilitar o gerenciamento e compartilhamento de informações.
+
+### 6: Protótipo navegavel finalizado
+
+Prototipagem finalizada e navegável.
+
+### 7: Apresentação
+
+Elaboração da apresentação em vídeo 2ª Sprint.
+
+### 8: Hospedagem
+
+Definição do portal para hospedagem do site em nuvem.
 
 
 → [Voltar ao topo](#topo)
@@ -109,7 +116,7 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 <span  id="sprint_backlog">
 
 ## :clipboard: Sprint Backlog 1
-<p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
+<p>A Sprint Planning foi realizada no dia 02/10/2023, gerou os artefatos para o backlog abaixo:</p>
 <div align="center">
       <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/sprint01_backlog.png">
       <br>
@@ -125,12 +132,6 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 
 <div align="center">
       <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/1pagina_inicial.png">
-      <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/2carrossel_imagens.png">
-      <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/3area_texto.png">
-      <br>
-      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/4area_texto2.png">
 </div>
 
 → [Voltar ao topo](#topo)
