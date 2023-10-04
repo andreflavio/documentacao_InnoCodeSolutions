@@ -13,6 +13,7 @@
 <a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
 <a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
 <a  href="#metricas">Métricas do time</a>
+<a  href="#sprint_review">Sprint Review</a>
 </p>
 
 <p align="center">
@@ -152,11 +153,7 @@ Criação da documentação e organização visual no GitHub para facilitar o ge
 <span  id="metricas">
 
 ## :chart_with_upwards_trend: Métricas do time
-### O que funcionou bem?
 
-### O que pode melhorar?
-
-### Burndown
 Nesta sprint o time se uniu para as entregas de cada item listado na backlog da sprint.
 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
@@ -171,3 +168,20 @@ Nesta sprint o time se uniu para as entregas de cada item listado na backlog da 
 
 
 → [Voltar ao topo](#topo)
+
+<br>
+
+<span  id="sprint_review">
+
+## :bulb: Sprint review
+
+### O que funcionou bem?
+  - Divisão de tarefas e realização das mesmas;
+  - Realização das tarefas dentro do prazo estipulado;
+  - Criação e organização da documentação no GitHub.
+  
+### O que pode melhorar?
+  - A equipe teve dificuldades para a utilização do GitHub, procuraremos buscar mais conhecimento sobre a ferramenta;
+  - Dificuldades em realizar as daily's; 
+  - Não realizamos a documentação do User Stories.
+  
