@@ -29,7 +29,7 @@
 <br>
 </div>
 
-<p>Para início do desenvolvimento de um site para **plataforma educacional sobre o Scrum**, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
+<p>Para início do desenvolvimento de um site para ** plataforma educacional sobre o Scrum **, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
 
 <br>  
 
