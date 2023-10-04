@@ -1,75 +1,26 @@
-
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/bdcc472fad86403b27479968cbd2f5de9dfcc0cf/InnoCodeSolutions-banner.png" alt="banner_innocode" />
-
-  
-
-<br>
-
-  
+<img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/InnoCodeSolutions-banner.png" />
 
 <span  id="topo">
 
   
 
+<h1  align="center">Sprint 1: 04/09/2023 a 28/09/2023</h1>
+
 <p  align="center">
-<a  href="#sobre">Sobre</a> |
-<a  href="#backlogs">Product Backlog</a> |
-<a  href="#tecnologias">Tecnologias</a> |
-<a  href="#equipe">Equipe</a>
+<a  href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+<a  href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+<a  href="#sprint_backlog">Sprint Backlog 1</a> &nbsp |&nbsp &nbsp
+<a  href="#wireframe">Wireframe</a> &nbsp |&nbsp &nbsp
+<a  href="#kanban">KanBan</a> &nbsp |&nbsp &nbsp 
+<a  href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp 
+<a  href="#sprint_retrospectiva">Sprint Retrospectiva</a>
 </p>
 
-  
-
-<span  id="sobre">
-
-  
-
+<p align="center">
+<a href="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions.git">Voltar para Documentação<a>
 <br>
-
+</p>
   
-
-## :bookmark_tabs: Sobre o projeto
-
-  
-
-Este projeto tem como objetivo fornecer uma plataforma educacional abrangente dedicada à metodologia ágil Scrum. Com a crescente demanda por abordagens ágeis no desenvolvimento de software e gerenciamento de projetos, nossa missão é oferecer um recurso valioso para indivíduos e equipes que desejam aprender e implementar o Scrum de maneira eficaz.
-
-  
-
->  _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
-
-<br>
-
-  
-
-:arrow_right: Status do Projeto: **Em andamento** ✔️
-
-  
-
-<br>
-
-<br>
-
-<br>
-
-  
-
-### 🏁 Entregas de Sprints
-
-  
-
-Cada entrega será realizada a partir da **data de conclusão**, além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-
-<div align="center">
-
-| Sprint | Previsão de entrega | Status | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 28/09/2023 | ✅ Concluído |[Relatório](https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/tree/sprint01)
-| 02 | 26/10/2023 | 🚫 Não iniciada |
-| 03 | 23/11/2023 | 🚫 Não iniciada |
-
-</div>   
-
 <div align="center">
 <br>
   
@@ -77,126 +28,162 @@ Cada entrega será realizada a partir da **data de conclusão**, além da criaç
 
 <br>
 </div>
+
+<p>Para início do desenvolvimento de um site para ** plataforma educacional sobre o Scrum **, durante esta primeira sprint, nossa equipe concentrou seus esforços na criação do Wireframe, que servirá como base para o layout e a estrutura do site.</p>
+
+<br>  
+
+<span  id="objetivos">
+
+## :dart: Objetivos da Sprint
+
+Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
+
   
+
+- :heavy_check_mark: **1:** Definição de cargos e responsabilidades da equipe;
+
+- :heavy_check_mark: **2:** Desenvolvimento da identidade visual da empresa;
+
+- :heavy_check_mark: **3:** Definição e criação do layout (Wireframe);
+
+- :heavy_check_mark: **4:** Elaboração da Documentação e organização no GitHub
+
+- :heavy_check_mark: **5:** Apresentação
+
+- :heavy_check_mark: **6:** Definição de cores para o projeto
+
+
+<br>
+
+<span  id="entregas">
+
+## 📲 Entregas
+
+Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog da Sprint 01, através de comunicação direta entre o P.O. e o cliente. 
+
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente.
+
+  
+
+### 1: Definição de cargos e responsabilidades da equipe
+
+  
+
+Definição dos cargos de PO (Product Owner) e Scrum Master, assim como definição dos desenvolvedores.
+
+  
+
+### 2: Desenvolvimento da identidade visual da empresa
+
+  
+
+Criação do nome, logo e slogan da equipe, redes sociais e GitHub.
+
+  
+
+### 4: Definição e criação do layout (Wireframe)
+
+  
+
+Estabelecimento da estrutura do site e desenvolvimento do wireframe.
+
+
+### 5: Definição de cores para o projeto
+
+Seleção das cores a serem utilizadas no projeto. 
+
+
+### 6: Apresentação
+
+  
+
+Criação da documentação e organização visual no GitHub para facilitar o gerenciamento e compartilhamento de informações.
+
+
+
 → [Voltar ao topo](#topo)
 
-<br>
+<br> 
 
-<br>
+<span  id="sprint_backlog">
 
-  
-
-<span  id="backlogs">
-
-  
-
-## :dart: Product Backlog
-
-  
-
-<div  align="center" width="90%">
-
-  
-
-<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/b6132a36e97948e565ed5e8fda75f4b45524a673/product_backlog.png"  alt="product backlog"  />
-
-  
-
+## :clipboard: Sprint Backlog 1
+<p>A Sprint Planning foi realizada no dia 05/09/2023, gerou os artefatos para o backlog abaixo:</p>
+<div align="center">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/sprint01_backlog.png">
+      <br>
 </div>
 
-  
+→ [Voltar ao topo](#topo)
+
+<br>
+
+<span  id="wireframe">
+
+## :rice_scene: Wireframe
+
+<div align="center">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/1pagina_inicial.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/2carrossel_imagens.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/3area_texto.png">
+      <br>
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/3d1cfb3a1d2a3d306c5d781491086611357ab638/Wireframe/4area_texto2.png">
+</div>
 
 → [Voltar ao topo](#topo)
 
-  
-
 <br>
 
-<br>
+<span  id="kanban">
 
-  
+##  :bar_chart: KanBan
 
-<span  id="tecnologias">
-
-  
-
-## 🛠️ Tecnologias
-
-  
-
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
-  
-
-<img  src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C"  alt="Figma"  />
-
-  
-
-<img  src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"  alt="VS Code"  />
-
-  
-
-<img  src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A"  alt="GitHub"  />
-
-  
-
-<img  src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853"  alt="Google Sheets"  />
-
-  
-
-<img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-
-  
-
-<img  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  alt="Excel"/>
-
-  
-
-<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
-
-  
-
-<img  src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"  alt="Teams"  />
-
-
-
-<img  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  alt="Trello"  />
-
-  
-
-<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javaScript" />
-
-  
+<div align="center">
+      <img src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/8ab0636c899e1416a6c981d4b06db38a058e810b/kanban_sprint01.jpeg">
+      <br>
+</div>
 
 → [Voltar ao topo](#topo)
 
-  
+<br>
+
+<span  id="metricas">
+
+## :chart_with_upwards_trend: Métricas do time
+
+Nesta sprint o time se uniu para as entregas de cada item listado na backlog da sprint.
+
+- Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
+
+<p>
+  → Para ter acesso a planilha com os dados e gráfico <a href="https://fatecspgov-my.sharepoint.com/:x:/g/personal/gustavo_carvalho21_fatec_sp_gov_br/EYHhekfCCWVGjcrbAh9dUcMBErhKBofVpfHzoNdkV9C2jg?e=kDRqlZ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0">clique aqui!</a>
+</p>
+
+<div  align="center">
+<img  src="https://github.com/InnoCodeSolutions/documentacao_InnoCodeSolutions/blob/80661e3caf4d06541e70fb6974f5024a883300d4/burndown_sprint01.png"  />
+</div>
+
+
+→ [Voltar ao topo](#topo)
 
 <br>
 
+<span  id="sprint_retrospectiva">
+
+## :bulb: Sprint Retrospectiva
+
+- ### O que funcionou bem?
+  - Divisão de tarefas e realização das mesmas;
+  - Realização das tarefas dentro do prazo estipulado;
+  - Criação e organização da documentação no GitHub.
   
+- ### O que pode melhorar?
+  - A equipe teve dificuldades para a utilização do GitHub, procuraremos buscar mais conhecimento sobre a ferramenta;
+  - Dificuldades em realizar as daily's; 
+  - Não realizamos a documentação do User Stories.
 
-<span  id="equipe">
-
-  
-
-## :busts_in_silhouette: Equipe
-
-<div align="center">  
-
-| Função | Nome | LinkedIn & GitHub |
-| :---------:| :--------: | :---------------------: |
-| Product Owner | Mauro do Prado Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-do-prado-santos-350b2720a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mauropradoo) |
-| Scrum Master | Gustavo Carvalho | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-carvalho-73663514a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/xgustavu) |
-| Dev Team | Lucas Silva Cambuzano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cambuzano-ba4b6021a) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasCambuzano) |
-| Dev Team | Lucas Lahos Sanchez | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/profile/in/lucas-lahos-sanchez-7661b019b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lahoslucas) |
-| Dev Team | Danilo Alves dos Santos Braz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-alves-dos-santos-braz-26058328b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danilo-Fatec) |
-| Dev Team | Jucielinton Souza Mello Pedro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/jucieliton-pedro-3b220928b) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jucielitonpedro)|
-| Dev Team | João Paulo Epifano dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-epifanio-dos-santos-295092a3) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-epifanio)|
-| Dev Team | André Flávio de Oliveira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9fl%C3%A1vio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreflavio)|
-
-</div> 
-
-<br>
 
 → [Voltar ao topo](#topo)
